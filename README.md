@@ -6,6 +6,11 @@ So, with that scripts you can calculate MACD values in Binance and guess which c
 
 I have shared 2 ways to calculate it but I see that TALIB way is more trusted. So, I suggest you to use TALIB.
 
+Here is a screenshot below. That shows what we are talking about.
+
+![alt text](https://github.com/goksinenki/python-binance-macd-calculation/macd.PNG)
+
+
 INSTALLATION (Windows/Linux)
 
 Installation
