@@ -20,4 +20,13 @@ For Talib installation please check the URL below
 https://github.com/afnhsn/TA-Lib_x64
 
 
+How It Works
+
+macd_talib.py will read the file coins.txt and connect to Binance get 5min period candlesticks data and make a list of last 80 candleclose prices values.
+
+Then it calculates macd values with the help of TALIB formula for that values.
+
+And you can get macd, signals and history values at the end.
+
+
 Have a nice Trades :) !
