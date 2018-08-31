@@ -8,7 +8,7 @@ I have shared 2 ways to calculate it but I see that TALIB way is more trusted. S
 
 Here is a screenshot below. That shows what we are talking about.
 
-![alt text](https://github.com/goksinenki/python-binance-macd-calculation/macd.PNG)
+![alt text](https://github.com/goksinenki/python-binance-macd-calculation/blob/master/macd.PNG)
 
 
 INSTALLATION (Windows/Linux)
